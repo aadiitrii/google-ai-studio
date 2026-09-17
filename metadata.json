@@ -1,0 +1,6 @@
+{
+  "name": "sho-pro",
+  "description": "Aesthetic, classy online fashion boutique featuring trendy apparel at accessible rates, personalized styling suggestions, seamless multi-option payments, and post-purchase rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
